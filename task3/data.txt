@@ -1,0 +1,5 @@
+Ivanov 30020
+Sidorov 15670
+Vasichkin 13680
+Petrov 25320
+Mikhailov 18340
