@@ -1,0 +1,4 @@
+firma_1 OOO 10000 5000
+firma_2 AAA 3000 6000
+firma_3 UUU 20000 8000
+firma_4 EEE 10001 10000
